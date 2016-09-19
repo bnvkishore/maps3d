@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.394842,
+          48.848940999999996
+        ]
+      },
+      "properties": {
+        "id": "342",
+        "name": "Monroe Ave & Leslie Ave",
+        "terminalName": "31087",
+        "lastCommWithServer": "1422565692080",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1408550280000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "10",
+        "nbEmptyDocks": "3",
+        "latestUpdateTime": "1422562005003",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.394261,
+          48.848059
+        ]
+      },
+      "properties": {
+        "id": "343",
+        "name": "Mount Vernon Ave & Kennedy St",
+        "terminalName": "31088",
+        "lastCommWithServer": "1422565570568",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1408472940000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "11",
+        "nbEmptyDocks": "4",
+        "latestUpdateTime": "1422565327440",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.394568,
+          48.848002
+        ]
+      },
+      "properties": {
+        "id": "344",
+        "name": "Court House Metro / 15th & N Uhle St",
+        "terminalName": "31089",
+        "lastCommWithServer": "1422565670917",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1409238480000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "11",
+        "nbEmptyDocks": "10",
+        "latestUpdateTime": "1422554957256",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.397007,
+          48.848683
+        ]
+      },
+      "properties": {
+        "id": "345",
+        "name": "Washington Adventist U / Flower Ave & Division St",
+        "terminalName": "32049",
+        "lastCommWithServer": "1422565745974",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1409918460000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "7",
+        "nbEmptyDocks": "8",
+        "latestUpdateTime": "1422564778713",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3969329999999998,
+          48.848719
+        ]
+      },
+      "properties": {
+        "id": "346",
+        "name": "6th & S Ball St",
+        "terminalName": "31090",
+        "lastCommWithServer": "1422565745205",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1410966660000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "11",
+        "nbEmptyDocks": "4",
+        "latestUpdateTime": "1422543835779",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.396618,
+          48.847741
+        ]
+      },
+      "properties": {
+        "id": "347",
+        "name": "McKinley St & Connecticut Ave NW",
+        "terminalName": "31315",
+        "lastCommWithServer": "1422565581442",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1413385380000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "11",
+        "nbEmptyDocks": "8",
+        "latestUpdateTime": "1422541580417",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.395646,
+          48.847753
+        ]
+      },
+      "properties": {
+        "id": "348",
+        "name": "15th & L St NW",
+        "terminalName": "31276",
+        "lastCommWithServer": "1422565624201",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1412703420000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "20",
+        "nbEmptyDocks": "2",
+        "latestUpdateTime": "1422564898495",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.394742,
+          48.848976
+        ]
+      },
+      "properties": {
+        "id": "349",
+        "name": "17th & G St NW",
+        "terminalName": "31277",
+        "lastCommWithServer": "1422565677402",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1412683200000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "19",
+        "nbEmptyDocks": "11",
+        "latestUpdateTime": "1422565194420",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.396192,
+          48.847417
+        ]
+      },
+      "properties": {
+        "id": "350",
+        "name": "Spring St & Second Ave",
+        "terminalName": "32050",
+        "lastCommWithServer": "1422565633156",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1416500580000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "9",
+        "nbEmptyDocks": "6",
+        "latestUpdateTime": "1422559014118",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.394261,
+          48.848058
+        ]
+      },
+      "properties": {
+        "id": "351",
+        "name": "18th & R St NW",
+        "terminalName": "31278",
+        "lastCommWithServer": "1422565725940",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1415636460000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "4",
+        "nbEmptyDocks": "15",
+        "latestUpdateTime": "1422564518078",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.063275,
+          38.859254
+        ]
+      },
+      "properties": {
+        "id": "352",
+        "name": "S Joyce & 16th St S",
+        "terminalName": "31091",
+        "lastCommWithServer": "1422565701013",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1415208180000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "7",
+        "nbEmptyDocks": "8",
+        "latestUpdateTime": "1422540127190",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996985,
+          38.908008
+        ]
+      },
+      "properties": {
+        "id": "353",
+        "name": "Union Market/6th St & Neal Pl NE",
+        "terminalName": "31517",
+        "lastCommWithServer": "1422565645833",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1416419760000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "12",
+        "nbEmptyDocks": "11",
+        "latestUpdateTime": "1422564920586",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.105246,
+          38.895929
+        ]
+      },
+      "properties": {
+        "id": "354",
+        "name": "N Nelson St & Lee Hwy",
+        "terminalName": "31092",
+        "lastCommWithServer": "1422565550890",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1416938820000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "8",
+        "nbEmptyDocks": "7",
+        "latestUpdateTime": "1422537913310",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.078317,
+          38.898984
+        ]
+      },
+      "properties": {
+        "id": "355",
+        "name": "21st St N & N Pierce St",
+        "terminalName": "31093",
+        "lastCommWithServer": "1422565648090",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1416931380000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "7",
+        "nbEmptyDocks": "8",
+        "latestUpdateTime": "1422543720355",
+        "_empty_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09713,
+          38.895377
+        ]
+      },
+      "properties": {
+        "id": "356",
+        "name": "Lee Hwy & N Kirkwood Rd",
+        "terminalName": "31094",
+        "lastCommWithServer": "1422565608320",
+        "installed": "true",
+        "locked": "false",
+        "installDate": "1421247120000",
+        "removalDate": "null",
+        "temporary": "false",
+        "public": "true",
+        "nbBikes": "13",
+        "nbEmptyDocks": "2",
+        "latestUpdateTime": "1422556003656",
+        "_empty_": ""
+      }
+    }
+  ]
+}
